@@ -24,3 +24,4 @@ if (sum2 > 0 && sum3 > 0 || sum2 < 0 && sum3 < 0)
     }
 }
 Console.WriteLine($"Корень ур-ия по методу хорд = {Math.Round(pr, 7)}");
+Console.WriteLine("Hello");
